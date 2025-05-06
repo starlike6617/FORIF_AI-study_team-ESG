@@ -6,3 +6,4 @@ __pycache__/
 *.pt
 checkpoint/
 checkpoints/
+data/combined_data.csv
