@@ -2,3 +2,6 @@
 .env
 __pycache__/
 .venv/
+*.ckpt
+*.pt
+fine-tuning/checkpoint/
