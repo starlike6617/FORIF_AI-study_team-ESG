@@ -1,0 +1,10 @@
+{
+    "experiment_name": "full",
+    "train_losses": [
+        19.505776108985128
+    ],
+    "val_losses": [
+        19.731692171096803
+    ],
+    "timestamp": "2025-04-18 12:14:15"
+}

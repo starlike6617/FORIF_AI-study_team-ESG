@@ -1,0 +1,10 @@
+{
+    "experiment_name": "sentiment",
+    "train_losses": [
+        21.996367238380095
+    ],
+    "val_losses": [
+        19.946902357659688
+    ],
+    "timestamp": "2025-04-18 12:10:13"
+}
